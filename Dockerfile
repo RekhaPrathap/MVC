@@ -1,4 +1,4 @@
-FROM r1043864/tomcat:latest
+FROM r1043864/tomcat
 
 MAINTAINER rekha 
 
